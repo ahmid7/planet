@@ -183,6 +183,9 @@ footer .explore button:hover {
   article {
     width: 90%;
   }
+  article header {
+    padding: 1rem 0;
+  }
   article .header-logo img {
     width: 55%;
   }
@@ -196,7 +199,7 @@ footer .explore button:hover {
     font-size: 20px;
   }
   article .header-content {
-    padding-top: 5rem;
+    padding-top: 8rem;
   }
   article .header-content h2 {
     font-size: 3rem;

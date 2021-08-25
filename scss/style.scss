@@ -144,6 +144,10 @@ footer{
     article{
         width: 90%;
 
+        header{
+            padding:1rem 0;
+        }
+
         .header-logo{
             img{
                 width: 55%;
@@ -159,7 +163,7 @@ footer{
             }
         }
         .header-content{
-            padding-top: 5rem;
+            padding-top: 8rem;
 
             h2{
                 font-size: 3rem;
