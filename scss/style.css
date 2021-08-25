@@ -198,10 +198,10 @@ footer .explore button:hover {
   article .header-content h2 {
     font-size: 3rem;
   }
-  article .explore {
-    padding-top: 2rem;
+  article footer {
+    padding-top: 10rem;
   }
-  article .explore p {
+  article footer .explore p {
     font-size: 0.9rem;
   }
 }
