@@ -195,6 +195,9 @@ footer .explore button:hover {
   article .menu .hamburger-menu {
     font-size: 20px;
   }
+  article .header-content {
+    padding-top: 5rem;
+  }
   article .header-content h2 {
     font-size: 3rem;
   }
